@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tb_more_like"
+        android:icon="@drawable/ic_like_f"
+        android:title="@string/like_like"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/tb_more_useBrowser"
+        android:title="@string/app_useBrowser"/>
+    <item
+        android:id="@+id/tb_more_share"
+        android:title="@string/app_share"/>
+</menu>

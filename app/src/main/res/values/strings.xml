@@ -1,0 +1,60 @@
+<resources>
+    <!-- App基础 -->
+    <string name="app_name">WanAndroid</string>
+    <string name="app_name_cn">玩安卓</string>
+    <string name="app_useBrowser">用浏览器打开</string>
+    <string name="app_share">分享</string>
+    <string name="app_official">访问官网</string>
+    <string name="app_loading">正在加载</string>
+    <string name="app_website">常用网站</string>
+    <string name="app_chooseshare">选择发现应用</string>
+    <string name="app_test">此功能正在开发或调试</string>
+
+    <!--用户相关 -->
+    <string name="user_userCenter">用户中心</string>
+    <string name="user_username">用户名</string>
+    <string name="user_points">>我的积分：</string>
+    <string name="user_like">我的收藏</string>
+    <string name="user_article">我的文章</string>
+    <string name="user_logout">注销</string>
+
+    <!-- 搜索功能相关 -->
+    <string name="search_search">搜索</string>
+    <string name="search_byauthor">通过作者名搜索</string>
+    <string name="search_hotkey">搜索热词</string>
+    <string name="search_result">搜索结果</string>
+
+    <!-- 关于 -->
+    <string name="about_about">关于</string>
+    <string name="about_text1">本程序由Persenlo制作</string>
+
+    <!-- 设置相关 -->
+    <string name="setting_setting">设置</string>
+
+    <!-- 体系相关 -->
+    <string name="hub_hub">体系</string>
+
+    <!-- 导航相关 -->
+    <string name="locate_locate">导航</string>
+
+    <!-- 项目相关 -->
+    <string name="project_project">项目</string>
+
+    <!-- 广场相关 -->
+    <string name="sub_sub">广场</string>
+
+    <!-- 问答相关 -->
+    <string name="help_help">问答</string>
+
+    <!-- 收藏相关 -->
+    <string name="like_like">收藏</string>
+
+    <!-- 登录相关 -->
+    <string name="login_login">登录</string>
+    <string name="login_register">注册</string>
+    <string name="login_tipsRegister">还没有账号？点右上角注册!</string>
+    <string name="login_inAccount">请输入账号</string>
+    <string name="login_inPassword">请输入密码</string>
+
+
+</resources>
