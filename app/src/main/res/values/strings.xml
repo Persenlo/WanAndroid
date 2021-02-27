@@ -9,6 +9,7 @@
     <string name="app_website">常用网站</string>
     <string name="app_chooseshare">选择发现应用</string>
     <string name="app_test">此功能正在开发或调试</string>
+    <string name="app_version">Beta1.0</string>
 
     <!--用户相关 -->
     <string name="user_userCenter">用户中心</string>
@@ -27,6 +28,7 @@
     <!-- 关于 -->
     <string name="about_about">关于</string>
     <string name="about_text1">本程序由Persenlo制作</string>
+    <string name="about_github">前往github</string>
 
     <!-- 设置相关 -->
     <string name="setting_setting">设置</string>

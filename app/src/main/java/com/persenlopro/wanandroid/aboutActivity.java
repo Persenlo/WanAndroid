@@ -18,7 +18,7 @@ public class aboutActivity extends AppCompatActivity {
         setTitle(R.string.about_about);
 
         //使toolbar与actionbar一致（actionbar已隐藏）
-        Toolbar toolbar = findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.tb_about);
         setSupportActionBar(toolbar);
 
         //toolbar返回键显示

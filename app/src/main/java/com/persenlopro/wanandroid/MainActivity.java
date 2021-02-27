@@ -208,11 +208,12 @@ public class MainActivity extends AppCompatActivity {
                 break;
 
             case R.id.menu_about:
-                Toast.makeText(this,"click!",Toast.LENGTH_SHORT).show();
+                Intent intent3=new Intent(this,aboutActivity.class);
+                startActivity(intent3);
                 break;
 
             case R.id.menu_setting:
-                Toast.makeText(this,"click!",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this,R.string.app_test,Toast.LENGTH_SHORT).show();
                 break;
         }
         return true;
