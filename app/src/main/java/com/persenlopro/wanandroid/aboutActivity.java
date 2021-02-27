@@ -4,8 +4,11 @@ import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
 
 public class aboutActivity extends AppCompatActivity {
 
@@ -36,5 +39,11 @@ public class aboutActivity extends AppCompatActivity {
                 break;
         }
         return true;
+    }
+
+    public  void onGithubButtonClick(View view){
+        Uri uri=Uri.parse("https://github.com/Persenlo/WanAndroid");
+        Intent intent=new Intent(Intent.ACTION_VIEW,uri);
+        startActivity(intent);
     }
 }
